@@ -1,8 +1,8 @@
 ## ✅ Used Grand Cherokee 4xe — Inspection Checklist
 
 ### 🔎 Vehicle History & Paperwork
-- Y[ ] N[ ] Clean title (no salvage/rebuilt)
-- Y[ ] N[ ] No accident damage on Carfax/AutoCheck
+- [ ] Clean title (no salvage/rebuilt)
+- [ ] No accident damage on Carfax/AutoCheck
 - [ ] Service records available (especially oil + hybrid system checks)
 - [ ] Recall status checked and completed
 - [ ] One owner preferred (not required, but ideal)
